@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"raylib.h": "c",
+		"dlfcn.h": "c",
+		"typeinfo": "c",
+		"term.h": "c",
+		"stdbool.h": "c",
+		"hotreload.h": "c",
+		"stdio.h": "c",
+		"windows.h": "c",
+		"assert.h": "c"
+	}
+}
